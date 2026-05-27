@@ -1,1 +1,1 @@
-PASTE_FULL_CONTENT_HERE
+Full original asm.py from zip

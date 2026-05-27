@@ -1,1 +1,1 @@
-# Full interpreter from original zip (core of the x47 language)
+Full original interpreter.py from zip

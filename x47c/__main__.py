@@ -1,4 +1,1 @@
-from . import cli
-
-if __name__ == "__main__":
-    cli.main()
+Full original __main__.py from zip
