@@ -1,1 +1,1 @@
-Core ML framework with autograd and quantization
+Full autograd + Tensor + Linear + SGD implementation
