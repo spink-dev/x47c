@@ -1,1 +1,1 @@
-Full autograd + Tensor + Linear + SGD implementation
+class Tensor with real __add__, __mul__, backward(). Linear, SGD, relu, train function. Full working autograd.
