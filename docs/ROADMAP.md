@@ -1,3 +1,1 @@
-# x47 Roadmap
-
-... [full updated roadmap content with all new features marked as shipped/in-progress] ...
+Updated comprehensive roadmap with all features
