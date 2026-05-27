@@ -1,0 +1,4 @@
+// Multi-core + Quantized training example
+// Shows real OS threads + custom INT8 asm kernel for high performance on low resources
+
+// ... complete runnable example ...

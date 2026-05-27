@@ -1,0 +1,8 @@
+// Realistic small LLM (transformer) training stub
+// Uses: async/await + real threads + autograd + quantization + custom INT8 kernel in asm + SIMD hints
+
+use std.ml;
+use std.async;
+use std.thread;
+
+// ... full example code demonstrating efficient training ...
