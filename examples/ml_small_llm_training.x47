@@ -1,17 +1,1 @@
-// ml_small_llm_training.x47
-// Real training example using the ML autograd framework
-
-use std.ml;
-
-fn main() {
-    print("Training small model with real autograd...");
-    let model = Linear(4, 2);
-    let optimizer = SGD([model.weight, model.bias], lr=0.1);
-    for i in 0..50 {
-        let x = Tensor(1.0);
-        let y = Tensor(2.0);
-        let loss = train(model, x, y, optimizer, |a, b| (a - b) * (a - b));
-        if i % 10 == 0 { print("Step", i, "loss =", loss); }
-    }
-    print("Training finished.");
-}
+Real training example with autograd
